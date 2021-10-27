@@ -1,0 +1,15 @@
+C:\FMX\C#\1004\bin\Debug\net5.0\1004.exe
+C:\FMX\C#\1004\bin\Debug\net5.0\1004.deps.json
+C:\FMX\C#\1004\bin\Debug\net5.0\1004.runtimeconfig.json
+C:\FMX\C#\1004\bin\Debug\net5.0\1004.runtimeconfig.dev.json
+C:\FMX\C#\1004\bin\Debug\net5.0\1004.dll
+C:\FMX\C#\1004\bin\Debug\net5.0\ref\1004.dll
+C:\FMX\C#\1004\bin\Debug\net5.0\1004.pdb
+C:\FMX\C#\1004\obj\Debug\net5.0\1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\1004\obj\Debug\net5.0\1004.AssemblyInfoInputs.cache
+C:\FMX\C#\1004\obj\Debug\net5.0\1004.AssemblyInfo.cs
+C:\FMX\C#\1004\obj\Debug\net5.0\1004.csproj.CoreCompileInputs.cache
+C:\FMX\C#\1004\obj\Debug\net5.0\1004.dll
+C:\FMX\C#\1004\obj\Debug\net5.0\ref\1004.dll
+C:\FMX\C#\1004\obj\Debug\net5.0\1004.pdb
+C:\FMX\C#\1004\obj\Debug\net5.0\1004.genruntimeconfig.cache

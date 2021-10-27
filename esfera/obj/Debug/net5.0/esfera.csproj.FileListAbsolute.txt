@@ -1,0 +1,15 @@
+C:\FMX\C#\esfera\bin\Debug\net5.0\esfera.exe
+C:\FMX\C#\esfera\bin\Debug\net5.0\esfera.deps.json
+C:\FMX\C#\esfera\bin\Debug\net5.0\esfera.runtimeconfig.json
+C:\FMX\C#\esfera\bin\Debug\net5.0\esfera.runtimeconfig.dev.json
+C:\FMX\C#\esfera\bin\Debug\net5.0\esfera.dll
+C:\FMX\C#\esfera\bin\Debug\net5.0\ref\esfera.dll
+C:\FMX\C#\esfera\bin\Debug\net5.0\esfera.pdb
+C:\FMX\C#\esfera\obj\Debug\net5.0\esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\esfera\obj\Debug\net5.0\esfera.AssemblyInfoInputs.cache
+C:\FMX\C#\esfera\obj\Debug\net5.0\esfera.AssemblyInfo.cs
+C:\FMX\C#\esfera\obj\Debug\net5.0\esfera.csproj.CoreCompileInputs.cache
+C:\FMX\C#\esfera\obj\Debug\net5.0\esfera.dll
+C:\FMX\C#\esfera\obj\Debug\net5.0\ref\esfera.dll
+C:\FMX\C#\esfera\obj\Debug\net5.0\esfera.pdb
+C:\FMX\C#\esfera\obj\Debug\net5.0\esfera.genruntimeconfig.cache

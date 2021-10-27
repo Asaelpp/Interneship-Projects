@@ -1,0 +1,16 @@
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ExeResolvido2.csproj.AssemblyReference.cache
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ExeResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ExeResolvido2.AssemblyInfoInputs.cache
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ExeResolvido2.AssemblyInfo.cs
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ExeResolvido2.csproj.CoreCompileInputs.cache
+C:\FMX\C#\ExeResolvido2\bin\Debug\net5.0\ExeResolvido2.exe
+C:\FMX\C#\ExeResolvido2\bin\Debug\net5.0\ExeResolvido2.deps.json
+C:\FMX\C#\ExeResolvido2\bin\Debug\net5.0\ExeResolvido2.runtimeconfig.json
+C:\FMX\C#\ExeResolvido2\bin\Debug\net5.0\ExeResolvido2.runtimeconfig.dev.json
+C:\FMX\C#\ExeResolvido2\bin\Debug\net5.0\ExeResolvido2.dll
+C:\FMX\C#\ExeResolvido2\bin\Debug\net5.0\ref\ExeResolvido2.dll
+C:\FMX\C#\ExeResolvido2\bin\Debug\net5.0\ExeResolvido2.pdb
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ExeResolvido2.dll
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ref\ExeResolvido2.dll
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ExeResolvido2.pdb
+C:\FMX\C#\ExeResolvido2\obj\Debug\net5.0\ExeResolvido2.genruntimeconfig.cache

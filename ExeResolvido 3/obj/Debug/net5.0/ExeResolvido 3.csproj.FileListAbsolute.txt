@@ -1,0 +1,16 @@
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ExeResolvido 3.csproj.AssemblyReference.cache
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ExeResolvido 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ExeResolvido 3.AssemblyInfoInputs.cache
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ExeResolvido 3.AssemblyInfo.cs
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ExeResolvido 3.csproj.CoreCompileInputs.cache
+C:\FMX\C#\ExeResolvido 3\bin\Debug\net5.0\ExeResolvido 3.exe
+C:\FMX\C#\ExeResolvido 3\bin\Debug\net5.0\ExeResolvido 3.deps.json
+C:\FMX\C#\ExeResolvido 3\bin\Debug\net5.0\ExeResolvido 3.runtimeconfig.json
+C:\FMX\C#\ExeResolvido 3\bin\Debug\net5.0\ExeResolvido 3.runtimeconfig.dev.json
+C:\FMX\C#\ExeResolvido 3\bin\Debug\net5.0\ExeResolvido 3.dll
+C:\FMX\C#\ExeResolvido 3\bin\Debug\net5.0\ref\ExeResolvido 3.dll
+C:\FMX\C#\ExeResolvido 3\bin\Debug\net5.0\ExeResolvido 3.pdb
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ExeResolvido 3.dll
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ref\ExeResolvido 3.dll
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ExeResolvido 3.pdb
+C:\FMX\C#\ExeResolvido 3\obj\Debug\net5.0\ExeResolvido 3.genruntimeconfig.cache

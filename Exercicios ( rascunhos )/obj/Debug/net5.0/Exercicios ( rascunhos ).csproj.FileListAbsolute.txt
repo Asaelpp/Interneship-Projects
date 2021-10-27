@@ -1,0 +1,16 @@
+C:\FMX\C#\Exercicios ( rascunhos )\bin\Debug\net5.0\Exercicios ( rascunhos ).exe
+C:\FMX\C#\Exercicios ( rascunhos )\bin\Debug\net5.0\Exercicios ( rascunhos ).deps.json
+C:\FMX\C#\Exercicios ( rascunhos )\bin\Debug\net5.0\Exercicios ( rascunhos ).runtimeconfig.json
+C:\FMX\C#\Exercicios ( rascunhos )\bin\Debug\net5.0\Exercicios ( rascunhos ).runtimeconfig.dev.json
+C:\FMX\C#\Exercicios ( rascunhos )\bin\Debug\net5.0\Exercicios ( rascunhos ).dll
+C:\FMX\C#\Exercicios ( rascunhos )\bin\Debug\net5.0\ref\Exercicios ( rascunhos ).dll
+C:\FMX\C#\Exercicios ( rascunhos )\bin\Debug\net5.0\Exercicios ( rascunhos ).pdb
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\Exercicios ( rascunhos ).csproj.AssemblyReference.cache
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\Exercicios ( rascunhos ).GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\Exercicios ( rascunhos ).AssemblyInfoInputs.cache
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\Exercicios ( rascunhos ).AssemblyInfo.cs
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\Exercicios ( rascunhos ).csproj.CoreCompileInputs.cache
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\Exercicios ( rascunhos ).dll
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\ref\Exercicios ( rascunhos ).dll
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\Exercicios ( rascunhos ).pdb
+C:\FMX\C#\Exercicios ( rascunhos )\obj\Debug\net5.0\Exercicios ( rascunhos ).genruntimeconfig.cache

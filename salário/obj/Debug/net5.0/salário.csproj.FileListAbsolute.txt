@@ -1,0 +1,16 @@
+C:\FMX\C#\salário\bin\Debug\net5.0\salário.exe
+C:\FMX\C#\salário\bin\Debug\net5.0\salário.deps.json
+C:\FMX\C#\salário\bin\Debug\net5.0\salário.runtimeconfig.json
+C:\FMX\C#\salário\bin\Debug\net5.0\salário.runtimeconfig.dev.json
+C:\FMX\C#\salário\bin\Debug\net5.0\salário.dll
+C:\FMX\C#\salário\bin\Debug\net5.0\ref\salário.dll
+C:\FMX\C#\salário\bin\Debug\net5.0\salário.pdb
+C:\FMX\C#\salário\obj\Debug\net5.0\salário.csproj.AssemblyReference.cache
+C:\FMX\C#\salário\obj\Debug\net5.0\salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\salário\obj\Debug\net5.0\salário.AssemblyInfoInputs.cache
+C:\FMX\C#\salário\obj\Debug\net5.0\salário.AssemblyInfo.cs
+C:\FMX\C#\salário\obj\Debug\net5.0\salário.csproj.CoreCompileInputs.cache
+C:\FMX\C#\salário\obj\Debug\net5.0\salário.dll
+C:\FMX\C#\salário\obj\Debug\net5.0\ref\salário.dll
+C:\FMX\C#\salário\obj\Debug\net5.0\salário.pdb
+C:\FMX\C#\salário\obj\Debug\net5.0\salário.genruntimeconfig.cache

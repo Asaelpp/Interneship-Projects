@@ -1,0 +1,15 @@
+C:\FMX\C#\URI 1014\bin\Debug\net5.0\URI 1014.exe
+C:\FMX\C#\URI 1014\bin\Debug\net5.0\URI 1014.deps.json
+C:\FMX\C#\URI 1014\bin\Debug\net5.0\URI 1014.runtimeconfig.json
+C:\FMX\C#\URI 1014\bin\Debug\net5.0\URI 1014.runtimeconfig.dev.json
+C:\FMX\C#\URI 1014\bin\Debug\net5.0\URI 1014.dll
+C:\FMX\C#\URI 1014\bin\Debug\net5.0\ref\URI 1014.dll
+C:\FMX\C#\URI 1014\bin\Debug\net5.0\URI 1014.pdb
+C:\FMX\C#\URI 1014\obj\Debug\net5.0\URI 1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\URI 1014\obj\Debug\net5.0\URI 1014.AssemblyInfoInputs.cache
+C:\FMX\C#\URI 1014\obj\Debug\net5.0\URI 1014.AssemblyInfo.cs
+C:\FMX\C#\URI 1014\obj\Debug\net5.0\URI 1014.csproj.CoreCompileInputs.cache
+C:\FMX\C#\URI 1014\obj\Debug\net5.0\URI 1014.dll
+C:\FMX\C#\URI 1014\obj\Debug\net5.0\ref\URI 1014.dll
+C:\FMX\C#\URI 1014\obj\Debug\net5.0\URI 1014.pdb
+C:\FMX\C#\URI 1014\obj\Debug\net5.0\URI 1014.genruntimeconfig.cache

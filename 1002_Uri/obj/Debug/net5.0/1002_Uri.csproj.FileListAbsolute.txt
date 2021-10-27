@@ -1,0 +1,15 @@
+C:\FMX\C#\1002_Uri\bin\Debug\net5.0\1002_Uri.exe
+C:\FMX\C#\1002_Uri\bin\Debug\net5.0\1002_Uri.deps.json
+C:\FMX\C#\1002_Uri\bin\Debug\net5.0\1002_Uri.runtimeconfig.json
+C:\FMX\C#\1002_Uri\bin\Debug\net5.0\1002_Uri.runtimeconfig.dev.json
+C:\FMX\C#\1002_Uri\bin\Debug\net5.0\1002_Uri.dll
+C:\FMX\C#\1002_Uri\bin\Debug\net5.0\ref\1002_Uri.dll
+C:\FMX\C#\1002_Uri\bin\Debug\net5.0\1002_Uri.pdb
+C:\FMX\C#\1002_Uri\obj\Debug\net5.0\1002_Uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\1002_Uri\obj\Debug\net5.0\1002_Uri.AssemblyInfoInputs.cache
+C:\FMX\C#\1002_Uri\obj\Debug\net5.0\1002_Uri.AssemblyInfo.cs
+C:\FMX\C#\1002_Uri\obj\Debug\net5.0\1002_Uri.csproj.CoreCompileInputs.cache
+C:\FMX\C#\1002_Uri\obj\Debug\net5.0\1002_Uri.dll
+C:\FMX\C#\1002_Uri\obj\Debug\net5.0\ref\1002_Uri.dll
+C:\FMX\C#\1002_Uri\obj\Debug\net5.0\1002_Uri.pdb
+C:\FMX\C#\1002_Uri\obj\Debug\net5.0\1002_Uri.genruntimeconfig.cache

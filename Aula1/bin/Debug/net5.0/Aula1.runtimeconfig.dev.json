@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\asael\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\asael\\.nuget\\packages",
+      "A:\\Programs\\Vs\\Shares\\NuGetPackages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\FMX\C#\UriJudge1\bin\Debug\net5.0\UriJudge1.exe
+C:\FMX\C#\UriJudge1\bin\Debug\net5.0\UriJudge1.deps.json
+C:\FMX\C#\UriJudge1\bin\Debug\net5.0\UriJudge1.runtimeconfig.json
+C:\FMX\C#\UriJudge1\bin\Debug\net5.0\UriJudge1.runtimeconfig.dev.json
+C:\FMX\C#\UriJudge1\bin\Debug\net5.0\UriJudge1.dll
+C:\FMX\C#\UriJudge1\bin\Debug\net5.0\ref\UriJudge1.dll
+C:\FMX\C#\UriJudge1\bin\Debug\net5.0\UriJudge1.pdb
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\UriJudge1.csproj.AssemblyReference.cache
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\UriJudge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\UriJudge1.AssemblyInfoInputs.cache
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\UriJudge1.AssemblyInfo.cs
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\UriJudge1.csproj.CoreCompileInputs.cache
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\UriJudge1.dll
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\ref\UriJudge1.dll
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\UriJudge1.pdb
+C:\FMX\C#\UriJudge1\obj\Debug\net5.0\UriJudge1.genruntimeconfig.cache

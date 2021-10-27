@@ -1,0 +1,16 @@
+C:\FMX\C#\Rascunho\bin\Debug\net5.0\Rascunho.exe
+C:\FMX\C#\Rascunho\bin\Debug\net5.0\Rascunho.deps.json
+C:\FMX\C#\Rascunho\bin\Debug\net5.0\Rascunho.runtimeconfig.json
+C:\FMX\C#\Rascunho\bin\Debug\net5.0\Rascunho.runtimeconfig.dev.json
+C:\FMX\C#\Rascunho\bin\Debug\net5.0\Rascunho.dll
+C:\FMX\C#\Rascunho\bin\Debug\net5.0\ref\Rascunho.dll
+C:\FMX\C#\Rascunho\bin\Debug\net5.0\Rascunho.pdb
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\Rascunho.csproj.AssemblyReference.cache
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\Rascunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\Rascunho.AssemblyInfoInputs.cache
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\Rascunho.AssemblyInfo.cs
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\Rascunho.csproj.CoreCompileInputs.cache
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\Rascunho.dll
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\ref\Rascunho.dll
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\Rascunho.pdb
+C:\FMX\C#\Rascunho\obj\Debug\net5.0\Rascunho.genruntimeconfig.cache

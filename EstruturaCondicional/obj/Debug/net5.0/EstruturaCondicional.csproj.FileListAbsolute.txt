@@ -1,0 +1,15 @@
+C:\FMX\C#\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.exe
+C:\FMX\C#\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.deps.json
+C:\FMX\C#\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.runtimeconfig.json
+C:\FMX\C#\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.runtimeconfig.dev.json
+C:\FMX\C#\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.dll
+C:\FMX\C#\EstruturaCondicional\bin\Debug\net5.0\ref\EstruturaCondicional.dll
+C:\FMX\C#\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.pdb
+C:\FMX\C#\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\FMX\C#\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.AssemblyInfo.cs
+C:\FMX\C#\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\FMX\C#\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.dll
+C:\FMX\C#\EstruturaCondicional\obj\Debug\net5.0\ref\EstruturaCondicional.dll
+C:\FMX\C#\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.pdb
+C:\FMX\C#\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.genruntimeconfig.cache
