@@ -1,0 +1,16 @@
+C:\FMX\C#\Renato\bin\Debug\net5.0\Renato.exe
+C:\FMX\C#\Renato\bin\Debug\net5.0\Renato.deps.json
+C:\FMX\C#\Renato\bin\Debug\net5.0\Renato.runtimeconfig.json
+C:\FMX\C#\Renato\bin\Debug\net5.0\Renato.runtimeconfig.dev.json
+C:\FMX\C#\Renato\bin\Debug\net5.0\Renato.dll
+C:\FMX\C#\Renato\bin\Debug\net5.0\ref\Renato.dll
+C:\FMX\C#\Renato\bin\Debug\net5.0\Renato.pdb
+C:\FMX\C#\Renato\obj\Debug\net5.0\Renato.csproj.AssemblyReference.cache
+C:\FMX\C#\Renato\obj\Debug\net5.0\Renato.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\Renato\obj\Debug\net5.0\Renato.AssemblyInfoInputs.cache
+C:\FMX\C#\Renato\obj\Debug\net5.0\Renato.AssemblyInfo.cs
+C:\FMX\C#\Renato\obj\Debug\net5.0\Renato.csproj.CoreCompileInputs.cache
+C:\FMX\C#\Renato\obj\Debug\net5.0\Renato.dll
+C:\FMX\C#\Renato\obj\Debug\net5.0\ref\Renato.dll
+C:\FMX\C#\Renato\obj\Debug\net5.0\Renato.pdb
+C:\FMX\C#\Renato\obj\Debug\net5.0\Renato.genruntimeconfig.cache

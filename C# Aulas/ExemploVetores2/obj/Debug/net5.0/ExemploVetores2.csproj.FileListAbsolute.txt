@@ -1,0 +1,16 @@
+C:\FMX\C#\ExemploVetores2\bin\Debug\net5.0\ExemploVetores2.exe
+C:\FMX\C#\ExemploVetores2\bin\Debug\net5.0\ExemploVetores2.deps.json
+C:\FMX\C#\ExemploVetores2\bin\Debug\net5.0\ExemploVetores2.runtimeconfig.json
+C:\FMX\C#\ExemploVetores2\bin\Debug\net5.0\ExemploVetores2.runtimeconfig.dev.json
+C:\FMX\C#\ExemploVetores2\bin\Debug\net5.0\ExemploVetores2.dll
+C:\FMX\C#\ExemploVetores2\bin\Debug\net5.0\ref\ExemploVetores2.dll
+C:\FMX\C#\ExemploVetores2\bin\Debug\net5.0\ExemploVetores2.pdb
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ExemploVetores2.csproj.AssemblyReference.cache
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ExemploVetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ExemploVetores2.AssemblyInfoInputs.cache
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ExemploVetores2.AssemblyInfo.cs
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ExemploVetores2.csproj.CoreCompileInputs.cache
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ExemploVetores2.dll
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ref\ExemploVetores2.dll
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ExemploVetores2.pdb
+C:\FMX\C#\ExemploVetores2\obj\Debug\net5.0\ExemploVetores2.genruntimeconfig.cache
