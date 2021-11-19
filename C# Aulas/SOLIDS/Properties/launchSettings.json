@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SOLIDS": {
+      "commandName": "Project",
+      "commandLineArgs": "--uber"
+    }
+  }
+}

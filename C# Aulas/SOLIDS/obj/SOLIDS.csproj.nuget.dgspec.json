@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FMX\\Projetos\\C# Aulas\\Renato\\Renato.csproj": {}
+    "C:\\FMX\\C#\\SOLIDS\\SOLIDS.csproj": {}
   },
   "projects": {
-    "C:\\FMX\\Projetos\\C# Aulas\\Renato\\Renato.csproj": {
+    "C:\\FMX\\C#\\SOLIDS\\SOLIDS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FMX\\Projetos\\C# Aulas\\Renato\\Renato.csproj",
-        "projectName": "Renato",
-        "projectPath": "C:\\FMX\\Projetos\\C# Aulas\\Renato\\Renato.csproj",
+        "projectUniqueName": "C:\\FMX\\C#\\SOLIDS\\SOLIDS.csproj",
+        "projectName": "SOLIDS",
+        "projectPath": "C:\\FMX\\C#\\SOLIDS\\SOLIDS.csproj",
         "packagesPath": "C:\\Users\\asael\\.nuget\\packages\\",
-        "outputPath": "C:\\FMX\\Projetos\\C# Aulas\\Renato\\obj\\",
+        "outputPath": "C:\\FMX\\C#\\SOLIDS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "A:\\Programs\\Vs\\Shares\\NuGetPackages"

@@ -1,0 +1,5 @@
+C:\FMX\C#\SOLIDS\obj\Debug\net5.0\SOLIDS.csproj.AssemblyReference.cache
+C:\FMX\C#\SOLIDS\obj\Debug\net5.0\SOLIDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\FMX\C#\SOLIDS\obj\Debug\net5.0\SOLIDS.AssemblyInfoInputs.cache
+C:\FMX\C#\SOLIDS\obj\Debug\net5.0\SOLIDS.AssemblyInfo.cs
+C:\FMX\C#\SOLIDS\obj\Debug\net5.0\SOLIDS.csproj.CoreCompileInputs.cache
