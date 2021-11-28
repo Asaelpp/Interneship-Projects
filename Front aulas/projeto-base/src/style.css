@@ -1,0 +1,35 @@
+.navbhar{
+    position: fixed;
+    top: 0;
+}
+
+.imagem-carrossel-um{
+    object-fit: cover;
+    object-position: 0 80%;
+    height:400px;
+}
+
+
+.imagem-carrossel-dois{
+    object-fit: cover;
+    object-position: 0 50%;
+    height:400px;
+}
+
+.titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-cliente{
+    color: darkred;
+}
+
+.botao-cor{
+  background-color: darkred;
+  color: white;
+
+}
+
+.borda-cor{
+    border-color: darkred;
+}
