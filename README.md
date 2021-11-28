@@ -1,2 +1,2 @@
 # Projetos-
-## Consiste em uma pasta com todo meu progesso dentro do C# através de alguns desafios no URIJUDGE
+## Consiste em uma pasta com todo meu progresso como um estagiário Full-Stack  
