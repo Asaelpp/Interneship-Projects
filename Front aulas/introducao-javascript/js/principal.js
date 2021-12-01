@@ -25,7 +25,8 @@ for (let i = 0; i < pacientes.length; i++) {
 
         console.log("Peso Inválido");
         pesoValido = false;
-        tdImc.textContent = "Peso Inválido"
+        tdImc.textContent = "Peso Inválido";
+        paciente.style.backgroundColor = "lightcoral";
     }
 
     if (altura < 0 || altura >= 4.00) {
@@ -36,14 +37,17 @@ for (let i = 0; i < pacientes.length; i++) {
     }
 
     if (pesoValido && alturaValida) {
-        var imc = peso / (altura * altura);
-
-        tdImc.textContent = imc.toFixed(2);
+        var imc = calculaImc(peso,altura);
+        tdImc.textContent = imc;
 
     }
 
 }
 
-
+function calculaImc(peso,altura){
+    var imc = 0;
+     imc = peso / (altura * altura);
+     return imc.toFixed(2);
+}
 
 
