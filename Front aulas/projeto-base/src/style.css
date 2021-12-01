@@ -21,7 +21,7 @@
 }
 
 .cor-cliente{
-    color: darkred;
+    color: darkred !important;
 }
 
 .botao-cor{
@@ -32,4 +32,17 @@
 
 .borda-cor{
     border-color: darkred;
+}
+.card-posicao{
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-largura{
+    max-width: 18rem;
+
+}
+
+.receitas{
+    background-color: grey;
 }
