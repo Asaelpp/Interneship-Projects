@@ -5,22 +5,58 @@ botaoAdicionar.addEventListener("click", function (event) {
 
     var form = document.querySelector("#form-adiciona");
     //Extraindo info dos pacientes
+
+
+
     var paciente = obtemFormPaciente(form);
     
     console.log(paciente);
 
     //criar a tr e td para o paciente
 
-    var pacienteTr = MontaTr(paciente);
+
+
+    var erros = validaPaciente(paciente);
+
+    console.log("Paciente Inválido");
+
+    if (erros.length > 0){
+        exibeMensagensDeErro(erros);
+        return;
+    }
+
 
     //tabela
 
-    var tabela = document.querySelector("#tabela-pacientes");
 
-    tabela.appendChild(pacienteTr);
+addPaciente(paciente);
+
 
     form.reset();
+
+    document.querySelector("#mensagem-erro");
+
+    ul.innerHTML = "";
 });
+
+function addPaciente(paciente){
+    var pacienteTr = MontaTr(paciente);
+    var tabela = document.querySelector("#tabela-pacientes");
+    tabela.appendChild(pacienteTr);
+}
+
+
+function exibeMensagensDeErro(erros){
+    var ul = document.querySelector("#mensagem-erro");
+
+    ul.innerHTML = "";
+
+    erros.forEach(function(erro){
+        var li = document.createElement("li");
+        li.textContent = erro;
+        ul.appendChild(li);
+    });
+}
 
 function obtemFormPaciente(form) {
 
@@ -57,4 +93,36 @@ function MontaTd(dado,classe){
     td.classList.add(classe);
 
     return td;
+}
+
+
+function validaPaciente(paciente) {
+
+    var erros = [];
+
+    if (!validaPeso(paciente.peso)) {
+        erros.push("Peso é inválido");
+    }
+
+    if (!validaAltura(paciente.altura)) {
+        erros.push("Altura é inválida");
+    }
+
+    if (paciente.nome.length == 0){
+        erros.push("O nome não pode ficar em Branco");
+    }
+
+    if (paciente.gordura.length == 0){
+        erros.push("A gordura não pode ficar em Branco");
+    }
+
+    if (paciente.peso.length == 0){
+        erros.push("O peso não pode ser em branco");
+    }
+
+    if (paciente.altura.length == 0){
+        erros.push("Altura não pode ficar em branco");
+    }
+
+    return erros;
 }
