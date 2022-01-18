@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\asael\\.nuget\\packages\\": {},
-    "A:\\Programs\\Vs\\Shares\\NuGetPackages": {}
+    "C:\\Users\\Asael\\.nuget\\packages\\": {},
+    "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FMX\\C#\\Aula1\\Aula1.csproj",
+      "projectUniqueName": "C:\\Workspace\\FMX\\Interneship-Projects\\C# Aulas\\Aula1\\Aula1.csproj",
       "projectName": "Aula1",
-      "projectPath": "C:\\FMX\\C#\\Aula1\\Aula1.csproj",
-      "packagesPath": "C:\\Users\\asael\\.nuget\\packages\\",
-      "outputPath": "C:\\FMX\\C#\\Aula1\\obj\\",
+      "projectPath": "C:\\Workspace\\FMX\\Interneship-Projects\\C# Aulas\\Aula1\\Aula1.csproj",
+      "packagesPath": "C:\\Users\\Asael\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\FMX\\Interneship-Projects\\C# Aulas\\Aula1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "A:\\Programs\\Vs\\Shares\\NuGetPackages"
+        "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\asael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asael\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
